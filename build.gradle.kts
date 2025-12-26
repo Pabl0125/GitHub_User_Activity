@@ -21,5 +21,5 @@ dependencies {
 
 application {
     // Definimos la clase principal que Gradle debe ejecutar
-    mainClass.set("com.pablo.githubcli.GitHubActivityApp")
+    mainClass.set("com.Main")
 }
