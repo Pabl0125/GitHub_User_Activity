@@ -127,5 +127,3 @@ Actualmente el programa usa la API pública. Si realizas muchas peticiones segui
 Desarrollado por [Pabl0125](https://www.google.com/search?q=https://github.com/Pabl0125) - 2025.
 
 ---
-
-¿Te gustaría que te ayude también a crear el archivo **.gitignore** para que no subas accidentalmente la carpeta `build/` a GitHub?
