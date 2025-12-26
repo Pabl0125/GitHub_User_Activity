@@ -1,9 +1,3 @@
-Aquí tienes una propuesta completa para tu archivo **README.md**. Está diseñado para que sea profesional, fácil de leer y para que cualquier usuario sepa exactamente cómo ejecutar tu herramienta.
-
-Puedes copiar y pegar el siguiente contenido directamente en un archivo llamado `README.md` en la raíz de tu proyecto:
-
----
-
 # GitHub User Activity CLI
 
 Este proyecto es una herramienta de línea de comandos (CLI) desarrollada en **Java** que consume la **API de GitHub** para mostrar de forma resumida la actividad reciente de un usuario específico.
